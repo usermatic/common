@@ -1,0 +1,9 @@
+{
+  "name": "@usermatic/common",
+  "version": "0.0.1",
+  "description": "Common dependencies for usermatic",
+  "main": "index.js",
+  "repository": "https://github.com/usermatic/common",
+  "author": "Mark Logan <mark@gmail.com>",
+  "license": "MIT"
+}
